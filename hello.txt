@@ -1,16 +1,33 @@
 ﻿Hello
 
+<<<<<<< HEAD
+รักเค้ามั้ย: Hello zchoolmate kid 
+=======
 รักเค้ามั้ย: Hello zchoolmate kid
+รักครับ
+>>>>>>> 21f39c896103bf6396595fc7634908047ad75ccc
 
-
+5555555+
+I'm Batman
+Matha!!!!!!!!!!!!!
+Hello This is Prae eiei
 Hello  Thanaphon
 
 I want fluffy cattt ++++++++++++++++++++++++++++++++++
 
+
 Black Desert ป่าววววว
 
 
+<<<<<<< HEAD
 piggggggggggggggggggggggggggggggggggggggggggggggggggggg
+=======
+piggggggggggggggggggggggggggggggggggggggggggggggggggggggg  good wellplayed
+
+I am groot
+>>>>>>> 1c83cfa903cfde59ad814779c3d45f76c5636531
 
 Hello Geng 2
+hello arsame
 
+Hello Geng 2
