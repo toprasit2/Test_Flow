@@ -1,0 +1,15 @@
+C:\Users\ARSAME\Desktop>git clone https://github.com/toprasit2/Test_Flow
+C:\Users\ARSAME\Desktop>cd Test_Flow
+C:\Users\ARSAME\Desktop\Test_Flow>git flow init
+
+C:\Users\ARSAME\Desktop\Test_Flow>git pull
+C:\Users\ARSAME\Desktop\Test_Flow>git push
+
+C:\Users\ARSAME\Desktop\Test_Flow>git flow feature start arsameFeature
+C:\Users\ARSAME\Desktop\Test_Flow>git flow feture finish arsameFeature
+C:\Users\ARSAME\Desktop\Test_Flow>git checkout develop //Switched to branch 'develop'
+
+
+C:\Users\ARSAME\Desktop\Test_Flow>git checkout feature arsameFeature
+
+C:\Users\ARSAME\Desktop\Test_Flow>git merge develop
